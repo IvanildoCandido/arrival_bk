@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  arrivalBK:
+  arrival_bk:
     build: .
     command: npm start
     ports:
